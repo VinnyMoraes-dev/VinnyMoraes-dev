@@ -4,6 +4,8 @@ I am a professional passionate about technology, I make my work my hobby and inn
 
 I'm looking for new professional challenges, developing my skills and specializing in the area of ​​Software Development.
 
+I am a FULL Satck Software Development student at STEP Computer Academy and Digital Innovation One (DIO).
+
 ## Connect with Me!
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinnyMoraes-dev)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/638059295715491900)
