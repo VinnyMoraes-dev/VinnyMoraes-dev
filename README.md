@@ -6,13 +6,16 @@ I'm looking for new professional challenges, developing my skills and specializi
 
 I am a FULL Satck Software Development student at STEP Computer Academy and Digital Innovation One (DIO).
 
-## Connect with Me!
+## My Courses 📚
+👉<a href="https://www.w3schools.com">Click here</a> to see my courses!🎯
+
+## Connect with Me! 😁
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinnyMoraes-dev)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/638059295715491900)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/vinicius-araujo-moraes-ti/)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19320344/vinny-moraes)
 
-## Skills
+## Skills 🤹
 ![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Linux](https://img.shields.io/badge/Linux-FCC624.svg?style=for-the-badge&logo=Linux&logoColor=black)
@@ -27,17 +30,17 @@ I am a FULL Satck Software Development student at STEP Computer Academy and Digi
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
-## IDE 
+## IDE 💻💡
 ![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
 ![GOOGLE COLAB](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
 
-## GitHub Stats
+## GitHub Stats 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinnyMoraes-dev&show_icons=true&theme=tokyonight) 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VinnyMoraes-dev&layout=compact&theme=tokyonight)
 
 
-## Hobbies
+## Hobbies 🚴
 ### Games 🎮👾🛸
 
 ### Visit Bio Park 🐘🦒🦧🦍🐒🦝🦥🦁🦢🐅🦛🦏🦙🦉🦚🦔🐢🐊
@@ -48,7 +51,7 @@ I am a FULL Satck Software Development student at STEP Computer Academy and Digi
 
 ### Movies and Series 👽👨‍🚀🚀🧙‍♂️🧝‍♀️🧛🏻‍♂️🥊🥋
 
-## Streaming
+## Streaming 🎞💻
 ![HBO Max](https://img.shields.io/badge/HBO-000000.svg?style=for-the-badge&logo=HBO&logoColor=white)
 
 ![Amazon Prime](https://img.shields.io/badge/Amazon%20Prime-00A8E1?style=for-the-badge&logo=netflix&logoColor=white)
