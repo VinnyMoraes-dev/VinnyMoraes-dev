@@ -7,7 +7,7 @@ I'm looking for new professional challenges, developing my skills and specializi
 I am a FULL Satck Software Development student at STEP Computer Academy and Digital Innovation One (DIO).
 
 ## My Courses 📚
-👉<a href="https://www.w3schools.com">Click here</a> to see my courses!🎯
+👉<a href="https://www.linkedin.com/in/vinicius-araujo-moraes-ti/details/certifications/">Click here</a> to see my courses!🎯
 
 ## Connect with Me! 😁
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinnyMoraes-dev)
