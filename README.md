@@ -9,6 +9,12 @@ I am a FULL Satck Software Development student at STEP Computer Academy and Digi
 ## My Courses 📚
 👉<a href="https://www.linkedin.com/in/vinicius-araujo-moraes-ti/details/certifications/">Click here</a> to see my courses!🎯
 
+## My Projects on ![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)
+👉<a href="https://www.linkedin.com/in/vinicius-araujo-moraes-ti/details/projects/?profileUrn=urn%3Ali%3Afsd_profile%3AACoAABzDpr4BmSu4Xmh1j9dcDZ4xQkKan7uRJw0">Click here</a> to view my Projects on LinkedIn!🎯
+
+## My Repositories on ![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=GitHub&logoColor=white)
+👉<a href="https://github.com/VinnyMoraes-dev?tab=repositories">Click here</a> to view my Projects in GitHub repositories!🎯
+
 ## Connect with Me! 😁
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinnyMoraes-dev)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/638059295715491900)
