@@ -1,8 +1,11 @@
-# Vinny Moraes Developer 👨‍💻
+# Vinny Moraes Data Analysis 👨‍💻📊
 
 I am a professional passionate about technology. I make my work my hobby and innovation opportunities my inspiration. I seek new professional challenges, developing my skills and specializing in the area of ​​Information Technology. 
 
 I map processes and perform data modeling according to business rules. In addition to analyzing the performance of implemented systems, I solve technical problems, prepare technical manuals and build dashboards in Power BI and develop applications in Power Apps.
+
+## My Power BI and Power Apps Portfolio 📊
+👉<a href="https://www.behance.net/datatechai">Click here</a> to view my Projects on Behance!🎯
 
 ## My Courses 📚
 👉<a href="https://www.linkedin.com/in/vinicius-araujo-moraes-ti/details/certifications/">Click here</a> to see my courses!🎯
@@ -14,15 +17,15 @@ I map processes and perform data modeling according to business rules. In additi
 👉<a href="https://github.com/VinnyMoraes-dev?tab=repositories">Click here</a> to view my Projects in GitHub repositories!🎯
 
 ## Connect with Me! 😁
-[![Behance]](https://www.behance.net/datatechai)
+[![Linktree](https://img.shields.io/badge/linktree-39E09B?style=for-the-badge&logo=linktree&logoColor=white)](https://linktr.ee/vinicius.datatech)
 [![Github](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/VinnyMoraes-dev)
 [![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/638059295715491900)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-357?style=for-the-badge&logo=linkedin&logoColor=ffff)](https://www.linkedin.com/in/vinicius-araujo-moraes-ti/)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/datascience.techai)
+[![X](https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white)](https://x.com/DataTechAI)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/users/19320344/vinny-moraes)
 
 ## Skills 🤹
-
-
 
 ![Power BI](https://img.shields.io/badge/Power%20BI-F2C811.svg?style=for-the-badge&logo=Power-BI&logoColor=black)
 ![Power Apps](https://camo.githubusercontent.com/606b648f60e8378dbc7cf9eabc92ea5c8f2877aa4e3ade6e737a42ef20198036/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f506f776572417070735f2545322539392541352545462542382538462d536869656c64732e696f2d3430343034303f7374796c653d706c6173746963266c6162656c436f6c6f723d373432373734266c6f676f3d706f77657261707073266c6f676f436f6c6f723d6e756c6c)
@@ -41,9 +44,9 @@ I map processes and perform data modeling according to business rules. In additi
 ![Spring](https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white)
 
 ## IDE 💻💡
-![Eclipse](https://img.shields.io/badge/Eclipse-2C2255?style=for-the-badge&logo=eclipse&logoColor=white)
 ![VSCODE](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=whit)
 ![GOOGLE COLAB](https://img.shields.io/badge/Google%20Colab-F9AB00.svg?style=for-the-badge&logo=Google-Colab&logoColor=white)
+![PYCHARM](https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white)
 
 ## GitHub Stats 📊
 ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=VinnyMoraes-dev&show_icons=true&theme=tokyonight) 
@@ -69,3 +72,5 @@ I map processes and perform data modeling according to business rules. In additi
 ![Crunchyroll](https://img.shields.io/badge/Crunchyroll-F47521?style=for-the-badge&logo=crunchyroll&logoColor=white)
 
 ![Netflix](https://img.shields.io/badge/Netflix-E50914?style=for-the-badge&logo=netflix&logoColor=white)
+
+![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)
